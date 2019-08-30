@@ -1,0 +1,12 @@
+server:
+  port: 8085
+
+database:
+  hostname: "127.0.0.1"
+  dbport: 3306
+  dbname: licence
+  dbuser: "root"
+  dbpassword: "2e2a8514-b7e5-4c5d-8693-93153f8b03c5"
+
+#EXAMPLE_VAR: "variable from config.yml"
+#EXAMPLE_PATH: "path from config.yml"

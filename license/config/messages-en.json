@@ -1,0 +1,15 @@
+{
+    "data":"%v is invalid %v",
+    
+    "default":{
+        "invalid":{
+            "url.message": "Property %v of class %v with value %v is not a valid URL"
+        }
+    },
+    "error": {
+        "msg": {
+            "description": "dynamite",
+            "authority": "the Bruce Dickinson"
+        }		
+	 }
+}
